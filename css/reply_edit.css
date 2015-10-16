@@ -1,85 +1,85 @@
 #content {
-	margin-top: 60px;
-	margin-left: auto;
-	margin-right: auto;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .post {
-	position: relative;
-	width: 400px;
-	margin: 0 auto;
-	padding: 5px;
-	border: 2px solid #757575;
-	border-radius: 5px;
-	margin-bottom: 20px;
-	background: #FFFFFF;
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 2px solid #757575;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background: #FFFFFF;
 }
 
 .poster {
-	margin-bottom: 5px;
-	color: #FF8888;
-	font-size: 20px;
-	font-weight: bold;
+    margin-bottom: 5px;
+    color: #FF8888;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .topic {
-	margin-bottom: 5px;
-	color: #0066FF;
-	font-size: 18px;
+    margin-bottom: 5px;
+    color: #0066FF;
+    font-size: 18px;
 }
 
 .message {
-	margin-bottom: 5px;
-	color: #FF8800;
-	font-size: 18px;
-	word-wrap: break-word;
+    margin-bottom: 5px;
+    color: #FF8800;
+    font-size: 18px;
+    word-wrap: break-word;
 }
 
 .time {
-	margin-bottom: 5px;
+    margin-bottom: 5px;
 }
 
 .replyform {
-	margin-bottom: 5px;
+    margin-bottom: 5px;
 }
 
 .reply_input {
-	width: 100%;
-	margin-top: 5px;
-	margin-right: 10px;
-	margin-bottom: 10px;
-	border: 0px;
-	border-bottom: 1px solid #555;
-	font-size: 15px;
+    width: 100%;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 0px;
+    border-bottom: 1px solid #555;
+    font-size: 15px;
 }
 
 .replybtn {
-	display: none;
+    display: none;
 }
 
 .reply {
-	width: 380px;
-	margin: 0 auto;
-	padding: 5px;
-	border: 2px solid #757575;
-	border-radius: 5px;
-	margin-bottom: 10px;
+    width: 380px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 2px solid #757575;
+    border-radius: 5px;
+    margin-bottom: 10px;
 }
 
 .reply_name {
-	margin-bottom: 5px;
-	color: #FF8888;
-	font-size: 18px;
-	font-weight: bold;	
+    margin-bottom: 5px;
+    color: #FF8888;
+    font-size: 18px;
+    font-weight: bold;  
 }
 
 .reply_content {
-	margin-bottom: 5px;
-	color: #FF8800;
-	font-size: 16px;
-	word-wrap: break-word;
+    margin-bottom: 5px;
+    color: #FF8800;
+    font-size: 16px;
+    word-wrap: break-word;
 }
 
 .reply_time {
-	margin-bottom: 5px;
+    margin-bottom: 5px;
 }
